@@ -1,5 +1,5 @@
 {
-  "name": "platzitest",
+  "name": "example-jest",
   "version": "1.0.0",
   "description": "pruebas unitarias con jest",
   "main": "index.js",
