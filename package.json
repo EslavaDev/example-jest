@@ -11,7 +11,7 @@
     "pruebas",
     "unitarias"
   ],
-  "author": "oscar barajas <oscar@dragons.mx>",
+  "author": "Eslavadev <danieleslava52@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.1.6",
