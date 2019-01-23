@@ -21,5 +21,8 @@
     "babel-core": "^7.0.0-bridge",
     "babel-jest": "^23.6.0",
     "jest": "^23.6.0"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
   }
 }
