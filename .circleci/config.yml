@@ -3,7 +3,7 @@ jobs:
   build:
     working_directory: ~/example-jest
     docker:
-      - image: circleci/node:4.8.2
+      - image: danieleslava/example:jest
       - image: mongo:3.4.4
     steps:
       - checkout
